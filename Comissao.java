@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.text.DecimalFormat;
 import java.math.RoundingMode;
 
-public class Comissão{
+public class Comissao{
     public static void main(String[] args){
         DecimalFormat real = new DecimalFormat("R$#.00");
         int comissao = 10;
